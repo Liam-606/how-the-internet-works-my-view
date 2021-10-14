@@ -57,11 +57,11 @@ Decryption: The process of switching unreadable cipher text to readable informat
 A lot of different kinds of hardware and infrastructure go into making the internet work for everyone. Some of the most important types include:
 
 
-1. # Routers: forwards packets to different computer networks based on their destination. Routers are like the traffic  cops of the internet making sure the internet traffic goes to the right networks.
+1.  Routers: forwards packets to different computer networks based on their destination. Routers are like the traffic  cops of the internet making sure the internet traffic goes to the right networks.
 
-2. # Switches: connect devices that share a single network . they use packet switching to forward packets to the correct devices. they also receive outbound packets from those devices and pass them along to the right destination.
+2.  Switches: connect devices that share a single network . they use packet switching to forward packets to the correct devices. they also receive outbound packets from those devices and pass them along to the right destination.
 
-3. #Servers: Web servers are specialized high-powered computers that store and serve content (webpages, images, videos) to users, in addition to hosting applications and  databases. servers also respond to DNS (Domain Name Server) queries and perform other important tasks to keep the internet up and running. Most servers are kept in large data centers which are located around the world.
+3. Servers: Web servers are specialized high-powered computers that store and serve content (webpages, images, videos) to users, in addition to hosting applications and  databases. servers also respond to DNS (Domain Name Server) queries and perform other important tasks to keep the internet up and running. Most servers are kept in large data centers which are located around the world.
 
 # What is DNS?
 
